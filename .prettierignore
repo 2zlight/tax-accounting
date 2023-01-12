@@ -1,0 +1,6 @@
+/node_modules
+/app
+/docker
+/k8s
+/static
+package-lock.json
